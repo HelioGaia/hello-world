@@ -28,7 +28,7 @@ for i in range(len(color)):
     num += int(ord(color[i]))
 
     
-##Creates SPecial charecters
+##Creates Special charecters
 spec = ""
 
     
