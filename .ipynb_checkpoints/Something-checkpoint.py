@@ -44,6 +44,6 @@ elif len(name) > len(color):
 else:
     spec += random.choice(specList1)
     spec += random.choice(specList2)
-
+   
 ##prints the completed password
 print(mixed + str(num) + spec)
